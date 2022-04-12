@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @legendary-beast
+- 👋 Hi, I’m Milind Mali
 - 👀 I’m interested in Machine Learning, and Artificial Intelligence
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning Computer Engineering at PVPIT, Budhgaon
 - 💞️ I’m looking to collaborate on a AI based project
 - 📫 Gmail : meetmsm007@gmail.com
 
